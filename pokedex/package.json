@@ -1,6 +1,6 @@
 {
   "name": "pokedex",
-  "homepage": "https://mathiasmillinghansen.github.io/pokedexAfleveringAssignment",
+  "homepage": "https://mathiasmillinghansen.github.io/Web2PokedexAflevering",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,3 +41,4 @@
     ]
   }
 }
+
