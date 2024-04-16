@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokedexAfleveringAssignment/static/css/main.f6aa4168.css",
+    "main.js": "/pokedexAfleveringAssignment/static/js/main.f8565f9f.js",
+    "static/js/453.ac4c0547.chunk.js": "/pokedexAfleveringAssignment/static/js/453.ac4c0547.chunk.js",
+    "index.html": "/pokedexAfleveringAssignment/index.html",
+    "main.f6aa4168.css.map": "/pokedexAfleveringAssignment/static/css/main.f6aa4168.css.map",
+    "main.f8565f9f.js.map": "/pokedexAfleveringAssignment/static/js/main.f8565f9f.js.map",
+    "453.ac4c0547.chunk.js.map": "/pokedexAfleveringAssignment/static/js/453.ac4c0547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6aa4168.css",
+    "static/js/main.f8565f9f.js"
+  ]
+}
